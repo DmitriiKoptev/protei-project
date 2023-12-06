@@ -1,5 +1,5 @@
 import React from 'react'
-import '../../src/client/assets/styles/style.css'
+import './assets/styles/style.css'
 
 // eslint-disable-next-line @typescript-eslint/explicit-function-return-type
 const Hello = () => {

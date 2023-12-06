@@ -19,6 +19,6 @@
         "checkJs": true,
         "isolatedModules": true,
     },
-    "include": ["src/**/**/*", "packages/module-hello-world/Hello.tsx"],
+    "include": ["src/**/**/*", "packages/module-hello-world/src/Hello.tsx", "packages/client", "index.tsx"],
     "exclude": ["node_modules"]
 }
